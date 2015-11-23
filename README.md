@@ -1,2 +1,0 @@
-# 00000_dev_environment
-Development Environment Installation and Configuration
